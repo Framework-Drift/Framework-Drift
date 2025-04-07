@@ -1,6 +1,6 @@
 # EchoFusion: Symbolic Integrity Declaration
 
-**Date of Declaration:** [Insert Date]
+**Date of Declaration:** April 6th 2025
 
 This document serves as the foundational marker for the creation, purpose, and protection of the EchoFusion system—a symbolic reasoning and distortion filtration framework originally developed by a single architect committed to epistemic clarity, structural truth, and symbolic coherence.
 
